@@ -18,7 +18,7 @@ Your To do list
 
 **TODO 3.1:** ทำ Form validation ให้ความยาวของ content ไม่น้อยกว่า 10 ตัวอักษร
 
-**TODO 3.2****:** สร้างปุ่ม Submit ให้สามารถ Submit Form ได้
+TODO 3.2: สร้างปุ่ม Submit ให้สามารถ Submit Form ได้
 
 # sv
 
