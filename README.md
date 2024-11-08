@@ -1,3 +1,25 @@
+# sveltekit-workshop
+
+Your To do list
+
+### Tailwind.css
+
+**TODO 1.1:** ตกแต่ง Navbar ด้วย Tailwind.css
+
+**TODO 1.2:** ตกแต่ง Footer ด้วย Tailwind.css
+
+### Basic SvelteKit
+
+**TODO 2.1:** นำ post.title มาแสดงผลใน PostCard
+
+**TODO 2.2:** ทำ function toggleExpand เพื่อย่อหรือโชว์ content แบบเต็มๆ
+
+### Form Handling
+
+**TODO 3.1:** ทำ Form validation ให้ความยาวของ content ไม่น้อยกว่า 10 ตัวอักษร
+
+**TODO 3.2****:** สร้างปุ่ม Submit ให้สามารถ Submit Form ได้
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -36,5 +58,5 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-# workshop-website-completed
-# sveltekit-workshop
+
+# workshop-website-complete
